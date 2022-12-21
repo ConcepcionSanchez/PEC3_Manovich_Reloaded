@@ -1,6 +1,6 @@
 ### **Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación**
 
-Para poder hablar de hibridación, tenemos que entender que son los medios, según Lev manovich para él forman parte de la siguiente formula :
+Para poder hablar de hibridación, tenemos que entender que son los medios, según Lev manovich para él forman parte de la siguiente formula:
 
 **Medio = algoritmos + una estructura de datos**
 
