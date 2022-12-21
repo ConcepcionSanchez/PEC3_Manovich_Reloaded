@@ -21,7 +21,7 @@ Lejos quedan los relojes de arena del antiguo Egipto, en la actualidad un reloj 
 
 *Los híbridos pueden centrarse en nuevas maneras de navegar e interaccionar con formatos de medios ya existentes. En este caso el tipo de medio en sí ni se modifica ni se combina con otros, sino que la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios.* Manovich, Software Takes Command.
 
-![](C:\Users\super\Downloads\pexels-karolina-grabowska-4498478 (1).jpg)
+![](C:\Users\super\Downloads\pexels-karolina-grabowska-4498478.jpg)
 
 Mientras aplicaciones como el navegador te muestran el mapa en  la pantalla y te geolocalizan en él, tu smartwatch calcula los pasos que das, los kilómetros que has recorrido, las calorías gastadas y la frecuencia cardiaca, todo ello a la vez desde el mismo dispositivo, incluso podrías escuchar música y en los mejores casos (o los mejores presupuestos) sin necesidad de llevar cerca de ti el teléfono, todas estas acciones forman parte de aplicaciones de medios híbridos interaccionando entre si.
 
@@ -33,7 +33,7 @@ La Organización Mundial de la Salud ha definido la Telemedicina como «*la pres
 
 La Teleconsulta no la debemos confundir con la Telemedicina,  las diferencias entre las dos es que en la primera se cambia la consulta presencial por una videollamada o llamada telefónica, mientras que la segunda la va mas allá, incluye la prestación de servicios sanitarios como el diagnóstico, tratamiento o prescripción mediante el uso de tecnología.
 
-![](C:\Users\super\Downloads\pexels-karolina-grabowska-7195084 (1).jpg)
+![](C:\Users\super\Downloads\pexels-karolina-grabowska-7195084.jpg)
 
 Para formular un diagnóstico, el Internet de las Cosas Médicas(IoMT, por sus siglas en inglés, Internet of the Medical Things) es de gran ayuda, el IoMT es el área de la tecnología que desarrolla instrumentos orientados al ámbito sanitario, como sensores, software de análisis de datos y sistemas de atención médica conectados a Internet, que permiten la realización de pruebas médicas, supervisión y diagnóstico de pacientes que se encuentran a distancia del profesional sanitario.
 
